@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ileyande.github.io/sitemap.ileyande.gz
+Sitemap: https://ileyande.github.io/app/sitemap.ileyande.gz
+Sitemap: https://ileyande.github.io/assets/sitemap.ileyande.gz
+Sitemap: https://ileyande.github.io/css/sitemap.ileyande.gz
+Sitemap: https://ileyande.github.io/data/sitemap.ileyande.gz
+Sitemap: https://ileyande.github.io/includes/sitemap.ileyande.gz
+Sitemap: https://ileyande.github.io/item/sitemap.ileyande.gz
+Sitemap: https://ileyande.github.io/src/sitemap.ileyande.gz
